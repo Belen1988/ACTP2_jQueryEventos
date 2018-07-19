@@ -84,4 +84,4 @@ No es lógico que si le hice click al botón de Seguir, siga apareciendo el text
 __Tip:__ Para realizar esta acción es recomendable utilizar un [if-else](https://desarrolloweb.com/articulos/544.php). Donde preguntas si el botón tiene la clase `.card__follow-btn--following` y de ser verdadera la respuesta quitas la clase y cambias el texto por 'Seguir', de lo contrario agregas la clase `.card__follow-btn--following` y cambias el texto del botón por 'Siguiendo'. Para saber si un elemento tiene o no asignada una clase determinada puedes utilizar el método [hasClass()](https://api.jquery.com/hasclass/) de jQuery.
 
 
-
+HOLAAAAAAAA
